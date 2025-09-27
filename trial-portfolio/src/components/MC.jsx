@@ -1,6 +1,6 @@
 import React from "react";
 
-const Hero = () => {
+const MC = () => {
     return (
         <section id="home" className="bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
             <div className="max-w-6xl mx-auto px-4 text-center">
@@ -14,4 +14,4 @@ const Hero = () => {
     );
 };
 
-export default Hero;
+export default MC;
