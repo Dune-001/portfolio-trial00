@@ -1,6 +1,6 @@
 import React from "react";
 
-const Projects = () => {
+const ProjectsComponent = () => {
     const projects = [
         {
             id: 1,
@@ -69,4 +69,4 @@ const Projects = () => {
     );
 };
 
-export default Projects;
+export default ProjectsComponent;
