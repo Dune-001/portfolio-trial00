@@ -40,19 +40,19 @@ const ContactComponent = () => {
     {
       icon: '📧',
       title: 'Email',
-      value: 'hello@yourname.com',
-      link: 'mailto:hello@yourname.com'
+      value: 'daggerone24@gmail.com',
+      link: 'mailto:daggerone24@gmail.com'
     },
     {
       icon: '📱',
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '+254762124175',
+      link: 'tel:+25462124175'
     },
     {
       icon: '📍',
-      title: 'Location',
-      value: 'Your City, Country',
+      title: 'Mombasa',
+      value: 'Mombasa, Kenya',
       link: '#'
     },
     {

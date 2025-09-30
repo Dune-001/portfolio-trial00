@@ -30,7 +30,7 @@ const Footer = () => {
             className="space-y-4"
           >
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Your Name
+              Muddy Foxx 001
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Full-stack developer passionate about creating digital experiences
@@ -83,9 +83,9 @@ const Footer = () => {
           >
             <h4 className="text-lg font-semibold">Get In Touch</h4>
             <div className="space-y-3 text-gray-400">
-              <p>📍 Your City, Country</p>
-              <p>📧 hello@yourname.com</p>
-              <p>📱 +1 (555) 123-4567</p>
+              <p>📍 Mombasa, Kenya</p>
+              <p>📧 daggerone24@.com</p>
+              <p>📱 +254762124175 </p>
             </div>
             <motion.button
               className="btn-primary w-full mt-4"
