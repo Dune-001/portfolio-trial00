@@ -6,7 +6,7 @@ import React from "react";
 import Header from "./components/Header";
 //import MC from "./components/MC";
 //import About from "./components/About";
-import Projects from "./pages/Projects";
+import Projects from "./pages/projects";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 import Home from "./pages/home";
