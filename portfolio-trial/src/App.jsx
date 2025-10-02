@@ -7,7 +7,7 @@ import Header from "./components/Header";
 //import MC from "./components/MC";
 //import About from "./components/About";
 import Projects from "./pages/projects";
-import Contact from "./pages/Contact";
+import Contact from "./pages/contact";
 import Footer from "./components/Footer";
 import Home from "./pages/home";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
